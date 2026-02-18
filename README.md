@@ -12,8 +12,9 @@ A WordPress plugin that adds configurable static archive folders to your WordPre
 ## Usage
 
 Add folder paths like:
-- `/static-website-1/`
-- `/static-website-2/`
+
+- `/archive_folder1/`
+- `/archive_folder2/`
 
 Folders will automatically appear in your sitemap at `/wp-sitemap.xml`
 
